@@ -1,7 +1,7 @@
 # Bitcoin Predictor for Machine Learning Regression Samples
 Bitcoin is a decentralized digital currency created in January 2009. It follows the ideas set out in a white paper by the mysterious and pseudonymous Satoshi Nakamoto. The identity of the person or persons who created the technology is still a mystery. Bitcoin offers the promise of lower transaction fees than traditional online payment mechanisms do, and unlike government-issued currencies, it is operated by a decentralized authority. (ref. Investopedia)
 
-This Bitcoin Predictor uses a [data](/Data/Bitcoin Historical Data.csv) with 3245 days of Trading properties such as:  
+This Bitcoin Predictor uses a [data](/Data/BitcoinHistoricalData.csv) with 3245 days of Trading properties such as:  
 - Date (str, date time): Time of measurement
 - Price (float): Price of Bitcoin at the end of the day (midnight)
 - Open (float): Price of Bitcoin at the start of the day (midnight)
